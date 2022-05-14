@@ -1,2 +1,2 @@
 # nedia
-Implement the Adapter Design Pattern from exercise proposed on engsoftmoderna book
+Implement patterns proposed by exercises in 6 chapter from engsoftmoderna book
