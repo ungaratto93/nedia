@@ -1,2 +1,2 @@
 # nedia
-Implement patterns proposed by exercises in 6 chapter from engsoftmoderna book
+Implementando os padrões solicitados pelos exercícios propostos no capítulo 6 do livro engsoftmoderna.info
